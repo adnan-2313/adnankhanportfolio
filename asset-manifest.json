@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/adnan-2313/static/css/main.bf538fe7.css",
-    "main.js": "/adnan-2313/static/js/main.d35a986b.js",
-    "static/media/HeroImage-removebg-preview.png": "/adnan-2313/static/media/HeroImage-removebg-preview.608ba30f86662d216af8.png",
-    "index.html": "/adnan-2313/index.html",
-    "main.bf538fe7.css.map": "/adnan-2313/static/css/main.bf538fe7.css.map",
-    "main.d35a986b.js.map": "/adnan-2313/static/js/main.d35a986b.js.map"
+    "main.css": "/adnan-2313/adnankhanportfolio/static/css/main.bf538fe7.css",
+    "main.js": "/adnan-2313/adnankhanportfolio/static/js/main.c8d49824.js",
+    "static/media/HeroImage-removebg-preview.png": "/adnan-2313/adnankhanportfolio/static/media/HeroImage-removebg-preview.608ba30f86662d216af8.png",
+    "index.html": "/adnan-2313/adnankhanportfolio/index.html",
+    "main.bf538fe7.css.map": "/adnan-2313/adnankhanportfolio/static/css/main.bf538fe7.css.map",
+    "main.c8d49824.js.map": "/adnan-2313/adnankhanportfolio/static/js/main.c8d49824.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.d35a986b.js"
+    "static/js/main.c8d49824.js"
   ]
 }
